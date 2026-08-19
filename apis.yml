@@ -28,7 +28,7 @@ x-status: defunct
 x-status-detail: 'Acquired by Chamberlain Group (2019); service and API shut down 2020-06-17. Domain
   parked (Network Solutions), no live HTTP/HTTPS on lockitron.com or api.lockitron.com, no MX.'
 x-status-source: https://en.wikipedia.org/wiki/Lockitron
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-20'
 tags:
