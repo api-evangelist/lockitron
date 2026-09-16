@@ -23,11 +23,11 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/lockitron.png
 name: lockitron
-description: Lockitron was a smart-lock startup (Bluetooth/Wi-Fi keyless entry, the Lockitron Bolt)
-  that offered an open web API at api.lockitron.com and integrations with IFTTT, Pebble, Nest and others.
-  It was acquired by Chamberlain Group in 2019 and its service and developer API were shut down on
-  2020-06-17; Bolt devices moved to Chamberlain's myQ platform. The company is defunct and its domain
-  (lockitron.com) is parked with no live web or API surface. Surfaced as a slow-ventures portfolio lead.
+description: Lockitron was a smart-lock startup (Bluetooth/Wi-Fi keyless entry, the Lockitron Bolt) that
+  offered an open web API at api.lockitron.com and integrations with IFTTT, Pebble, Nest and others. It
+  was acquired by Chamberlain Group in 2019 and its service and developer API were shut down on 2020-06-17;
+  Bolt devices moved to Chamberlain's myQ platform. The company is defunct and its domain (lockitron.com)
+  is parked with no live web or API surface. Surfaced as a slow-ventures portfolio lead.
 url: https://raw.githubusercontent.com/api-evangelist/lockitron/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -36,14 +36,15 @@ x-backed-by:
 x-tier: stub
 x-tier-reason: portfolio-lead
 x-status: defunct
-x-status-detail: 'Acquired by Chamberlain Group (2019); service and API shut down 2020-06-17. Domain
-  parked (Network Solutions), no live HTTP/HTTPS on lockitron.com or api.lockitron.com, no MX.'
+x-status-detail: Acquired by Chamberlain Group (2019); service and API shut down 2020-06-17. Domain parked
+  (Network Solutions), no live HTTP/HTTPS on lockitron.com or api.lockitron.com, no MX.
 x-status-source: https://en.wikipedia.org/wiki/Lockitron
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-20'
+modified: '2026-09-15'
 tags:
 - Company
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
